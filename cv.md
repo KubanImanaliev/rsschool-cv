@@ -7,8 +7,8 @@
 ---
 
 #### *Contacts* :
-* **Phone** : *+996555936565*
-* **Email** : *imanaliev.kuban@gmail.com*
+* **telegram** : *@KubanImanaliev*
+* **Email** : *imanaliev.kuban@gmail.com* 
 * **Location** : *Bishkek, Kyrgyzstan*
 * **GitHub** : [KubanImanaliev](https://github.com/kubanimanaliev)
 ### *About me*
